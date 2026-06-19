@@ -327,3 +327,37 @@ The Radiant Grace website will support the brand by creating a modern and user-f
 # Site Map 
 
 ![Site Map View](assets/images/sitemap.png)
+
+## References
+Adobe. (2026). Adobe Color: Colour wheel and palette generator. Available at: https://color.adobe.com/ (Accessed: 19 June 2026).
+
+Canva. (2026). Canva: Graphic design platform used for creating website visuals, banners and design elements. Available at: https://www.canva.com/ (Accessed: 19 June 2026).
+
+Coolors. (2026). Coolors: Colour palette inspiration and generator. Available at: https://coolors.co/ (Accessed: 19 June 2026).
+
+Font Awesome. (2026). Font Awesome: Icons used for website icons and user interface elements. Available at: https://fontawesome.com/ (Accessed: 19 June 2026).
+
+GitHub. (2026). GitHub: Code hosting platform for version control and collaboration. Available at: https://github.com/ (Accessed: 19 June 2026).
+
+Google. (2026). Google Maps Embed: Used for embedding business locations on the contact page. Available at: https://www.google.com/maps (Accessed: 19 June 2026).
+
+Google Fonts. (2026). Google Fonts: Web fonts used for website typography. Available at: https://fonts.google.com/ (Accessed: 19 June 2026).
+
+Google. (2026). Material Symbols and Icons: Open-source icon library. Available at: https://fonts.google.com/icons (Accessed: 19 June 2026).
+
+MDN Web Docs. (2026). MDN Web Docs: HTML, CSS and JavaScript documentation and learning resources. Available at: https://developer.mozilla.org/ (Accessed: 19 June 2026).
+
+Microsoft. (2026). Visual Studio Code: Source-code editor used for developing the Radiant Grace website. Available at: https://code.visualstudio.com/ (Accessed: 19 June 2026).
+
+OpenAI. (2026). ChatGPT (GPT-5.5): Artificial intelligence assistant used for website planning, content development, code support and sitemap generation. Available at: https://chat.openai.com/ (Accessed: 19 June 2026).
+
+Pexels. (2026). Pexels: Free stock photographs and images used for website galleries and visual content. Available at: https://www.pexels.com/ (Accessed: 19 June 2026).
+
+Pinterest. (2026). Pinterest: Fashion, headwrap, colour, and layout inspiration used during the website design process. Available at: https://www.pinterest.com/ (Accessed: 19 June 2026).
+
+Unsplash. (2026). Unsplash: Free high-resolution photographs used for website imagery. Available at: https://unsplash.com/ (Accessed: 19 June 2026).
+
+W3Schools. (2026). W3Schools: HTML, CSS and JavaScript tutorials and examples. Available at: https://www.w3schools.com/ (Accessed: 19 June 2026).
+
+World Wide Web Consortium (W3C). (2026). W3C: HTML and CSS standards and validation resources. Available at: https://www.w3.org/ (Accessed: 19 June 2026).
+
