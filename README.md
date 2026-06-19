@@ -312,8 +312,6 @@ Possible future improvements include:
 
 ---
 
-## Conclusion
+## Deployment link 
 
-Radiant Grace is a complete front-end website for a headwrap and fashion accessories brand. It includes several connected pages, responsive styling, product displays, an image gallery, contact information, enquiry form validation, FAQ interaction, and chatbot styling.
-
-The final website is modern, elegant, responsive, and consistent with the Radiant Grace brand identity.
+https://usernamekay44.github.io/FINAL-POE-main-katlehokhabele/ 
