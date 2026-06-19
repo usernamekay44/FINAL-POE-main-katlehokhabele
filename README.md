@@ -315,3 +315,13 @@ Possible future improvements include:
 ## Deployment link 
 
 https://usernamekay44.github.io/FINAL-POE-main-katlehokhabele/ 
+
+## Site Map 
+
+![Site Map View](assets/images/sitemap.png)
+
+# Website Screenshots
+
+![Desktop home page view at 1280px](assets/screenshots/Desktop.png)
+![Tablet home page view at 768px](assets/screenshots/Tablet.png)
+![Mobile home page view at 375px](assets/screenshots/Mobile.png)
