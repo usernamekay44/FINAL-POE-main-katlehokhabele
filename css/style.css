@@ -68,7 +68,6 @@ p{
 }
 
 /* Images */
-
 img{
     width:500px;
     border-radius:20px;
@@ -151,8 +150,7 @@ input[type="submit"]:hover{
     background-color:#b02568;
 }
 
-/* FAQ PAGE*/
-
+/* FAQ PAGE */
 .faq-item {
     margin-bottom: 15px;
 }
@@ -183,3 +181,64 @@ footer{
     margin-top:40px;
 }
 
+/* Responsive CSS */
+@media (max-width:768px){
+
+    .container{
+        width:95%;
+        padding:15px;
+    }
+
+    header h1{
+        font-size:38px;
+    }
+
+    header p{
+        font-size:16px;
+    }
+
+    h2{
+        font-size:32px;
+    }
+
+    h3{
+        font-size:24px;
+    }
+
+    p{
+        font-size:18px;
+    }
+
+    form{
+        width:90%;
+        padding:20px;
+    }
+
+    input, textarea{
+        width:90%;
+    }
+
+    img{
+        width:100%;
+        max-width:500px;
+    }
+
+    .product{
+        width:90%;
+        display:block;
+        margin:auto;
+        margin-bottom:20px;
+    }
+
+    .box{
+        margin:20px auto;
+        padding:20px;
+    }
+
+    nav a{
+        display:block;
+        padding:10px;
+        margin:5px;
+    }
+
+}
