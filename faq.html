@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radiant Grace FAQ Chatbot</title>
+    <link rel="stylesheet" href="TESTINGCSS.css">
+    <script src="javascript/FAQ.js"></script>
+</head>
+
+<body>
+
+<header>
+    <h1>Radiant Grace</h1>
+    <p>Elegance. Confidence. Style.</p>
+</header>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="produts.html">Products</a>
+        <a href="gallery.html">Gallery</a>
+        <a herf="enqiry.html">Enquiry</a>
+        <a href="faq.html">FAQ</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    
+<div class="wrap">
+
+    <div class="chat">
+
+        <div class="header">
+            FAQ Chatbot
+        </div>
+
+        <div id="messages" class="messages">
+
+            <div class="msg bot">
+                Hello! I am the Radiant Grace Assistant.
+                Ask me about products, delivery, materials or headwrap care.
+            </div>
+
+        </div>
+
+        <div class="suggestions">
+
+            <button class="tag" onclick="quickQuestion('materials')">
+                Materials
+            </button>
+
+            <button class="tag" onclick="quickQuestion('delivery')">
+                Delivery
+            </button>
+
+            <button class="tag" onclick="quickQuestion('delivery time')">
+                Delivery Time
+            </button>
+
+            <button class="tag" onclick="quickQuestion('care')">
+                Care
+            </button>
+
+        </div>
+
+        <div class="controls">
+
+            <input
+                type="text"
+                id="input"
+                placeholder="Type your question..."
+            >
+
+            <button onclick="sendMessage()">
+                Send
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+<footer>
+    <p>© 2026 Radiant Grace | All Rights Reserved</p>
+</footer>
+
+<script src="js/faq.js"></script>
+
+</body>
+</html>
+```
