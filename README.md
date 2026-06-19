@@ -316,12 +316,14 @@ Possible future improvements include:
 
 https://usernamekay44.github.io/FINAL-POE-main-katlehokhabele/ 
 
-## Site Map 
-
-![Site Map View](assets/images/sitemap.png)
-
 # Website Screenshots
 
 ![Desktop home page view at 1280px](assets/screenshots/Desktop.png)
 ![Tablet home page view at 768px](assets/screenshots/Tablet.png)
 ![Mobile home page view at 375px](assets/screenshots/Mobile.png)
+
+## Conclusion
+The Radiant Grace website will support the brand by creating a modern and user-friendly online platform. It will include all important pages, product information, enquiry features, contact details, FAQ interaction, chatbot styling, and responsive design. This project will help Radiant Grace grow its visibility and present its products professionally online
+# Site Map 
+
+![Site Map View](assets/images/sitemap.png)
